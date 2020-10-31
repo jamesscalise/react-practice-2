@@ -15,7 +15,7 @@ const useSemiPersistentState = (key, initialState) => {
   return [value, setValue];
 };
 
-// text text
+
 
 const App = () => {
   const stories = [
