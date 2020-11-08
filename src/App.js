@@ -156,7 +156,7 @@ const List = ({ list, onRemoveItem }) =>
       onRemoveItem={onRemoveItem}
     />
   ));
-//yes
+
 const Item = ({ item, onRemoveItem }) => (
   <div>
     <span>
