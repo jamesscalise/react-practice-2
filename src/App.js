@@ -147,7 +147,7 @@ const InputWithLabel = ({
     </>
   );
 };
-
+// yes
 const List = ({ list, onRemoveItem }) =>
   list.map(item => (
     <Item
